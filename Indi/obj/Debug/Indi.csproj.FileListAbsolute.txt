@@ -1,0 +1,8 @@
+D:\VisuaStudioProj\Indi\Indi\bin\Debug\Indi.exe.config
+D:\VisuaStudioProj\Indi\Indi\bin\Debug\Indi.exe
+D:\VisuaStudioProj\Indi\Indi\bin\Debug\Indi.pdb
+D:\VisuaStudioProj\Indi\Indi\obj\Debug\Indi.csproj.AssemblyReference.cache
+D:\VisuaStudioProj\Indi\Indi\obj\Debug\Indi.csproj.SuggestedBindingRedirects.cache
+D:\VisuaStudioProj\Indi\Indi\obj\Debug\Indi.csproj.CoreCompileInputs.cache
+D:\VisuaStudioProj\Indi\Indi\obj\Debug\Indi.exe
+D:\VisuaStudioProj\Indi\Indi\obj\Debug\Indi.pdb
